@@ -1,11 +1,11 @@
 # Site settings
 author: Michael Penn
-title: 
+title: Developing Greatness
 header-img: img/home-bg.png
 email: mwpenn94@gmail.com
 copyright_name: Michael Penn
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning the Code to a Better Web and a Better Life
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mwpenn94
